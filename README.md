@@ -1,1 +1,2 @@
 # Snake-and-Ladder
+In this project I make a game which you can call it snake and ladder game this is game is inspired by the luddo . In this game there are two players and they make their turn of playing  and who ever reach the 100 frst will win the game but this is not easy i create snake on some number. If they came on that number they will be thrown down back and this is the obstacle in this cam but we also create ladders in it which will help the player to make quick win and i am also improving this project to make it more challenging. 
